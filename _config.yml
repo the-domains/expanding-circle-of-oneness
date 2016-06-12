@@ -1,0 +1,28 @@
+name: Expanding Circle of Oneness
+favicon: null
+layout_spectrum: 0.3240995726082474
+typography_spectrum: 0.6513129535596818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13908531982451677
+  lightness: 0.8612294164486229
+  saturation: 0.858550074743107
+  rhythmicContrast: 0.636796117760241
+purpose: []
